@@ -1,4 +1,3 @@
-name: /Volumes/Samsung_T5/proj/covid-data-analysis/envs
 channels:
   - conda-forge
   - defaults
@@ -119,4 +118,3 @@ dependencies:
   - zipp=3.4.1
   - zlib=1.2.11
   - zstd=1.4.9
-prefix: /Volumes/Samsung_T5/proj/covid-data-analysis/envs
